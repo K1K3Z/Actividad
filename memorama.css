@@ -97,3 +97,9 @@ body {
     text-align: center;
     width: 150px;
 }
+
+body {
+    background-image: url('fondo-béisbol.jpg');
+    background-size: cover;
+    color: #333;
+}
